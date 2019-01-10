@@ -1,7 +1,8 @@
 # Scraping-Scapy-Apache-Nutch-heritrix
 
 Pour tester il faut tapez la commande à la racine de dossier `tutorial` : `scrapy crawl quotes`
-
+###### La vidéo montre les résultats obtenus {a note des commentaires, sélectionner une langue, les avis textuel des utilisateur}
+[Regardez la vidéo ici :](https://www.youtube.com/watch?v=ZCBSZE0jFPc&feature=youtu.be)
 ### Apache-Nutch : 
 
 J'ai un ce probléme que je ne comprend pas 
